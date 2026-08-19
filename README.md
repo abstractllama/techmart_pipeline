@@ -3,9 +3,9 @@
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
-![CI Pipeline](https://github.com/abstractllama/techmart-pipeline/actions/workflows/ci.yml/badge.svg)
-![Lint](https://github.com/abstractllama/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/abstractllama/techmart-pipeline)
+![CI Pipeline](https://github.com/abstractllama/techmart_pipeline/actions/workflows/ci.yml/badge.svg)
+![Lint](https://github.com/abstractllama/techmart_pipeline/actions/workflows/lint.yml/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/abstractllama/techmart_pipeline)
 
 <mark>*Replace `abstractllama/techmart-pipeline` with your details*</mark>
 
